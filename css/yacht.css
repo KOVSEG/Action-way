@@ -1,0 +1,36 @@
+/**************** HEADER *****************/
+
+header {height: 700px; position: relative;}
+header .wrapper {padding: 100px 0 0 0px;}
+
+header.category-1{background:#202020 url(../images/1.jpg) center top no-repeat; position: relative; background-size: cover;}
+	header.category-2{background:#202020 url(../images/2.jpg) center top no-repeat; position: relative; background-size: cover;}
+	header.category-3{background:#202020 url(../images/3.jpg) center top no-repeat; position: relative; background-size: cover;}
+	header.category-4{background:#202020 url(../images/4.jpg) center top no-repeat; position: relative; background-size: cover;}
+	header.category-5{background:#202020 url(../images/5.jpg) center top no-repeat; position: relative; background-size: cover;}
+	header.category-6{background:#202020 url(../images/6.jpg) center top no-repeat; position: relative; background-size: cover;}
+	header.category-7{background:#202020 url(../images/7.jpg) center top no-repeat; position: relative; background-size: cover;}
+	header.category-8{background:#202020 url(../images/8.jpg) center top no-repeat; position: relative; background-size: cover;}
+	header.category-9{background:#202020 url(../images/9.jpg) center top no-repeat; position: relative; background-size: cover;}
+	header.category-10{background:#202020 url(../images/10.jpg) center top no-repeat; position: relative; background-size: cover;}
+	header:before{position: absolute; width:100%; height:100%; left: 0; top: 0; content: ''; background-color: rgba(0,0,0, 0.4); }
+/*
+     FILE ARCHIVED ON 06:28:17 Dec 05, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:44:19 Apr 30, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 772.317
+  exclusion.robots: 0.142
+  exclusion.robots.policy: 0.127
+  cdx.remote: 0.094
+  esindex: 0.012
+  LoadShardBlock: 719.846 (3)
+  PetaboxLoader3.datanode: 881.943 (5)
+  load_resource: 460.454 (2)
+  PetaboxLoader3.resolve: 291.464 (2)
+*/
