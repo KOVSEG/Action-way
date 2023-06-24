@@ -1,6 +1,3 @@
-/*
-
-*/
 
 .version.index /* version checker */
 {
@@ -34,7 +31,7 @@
 
 #u117
 {
-	z-index: 5;
+	z-index: 20;
 	border-style: none;
 	border-color: transparent;
 	padding-bottom: 433px;
@@ -44,7 +41,7 @@
 
 #u280
 {
-	z-index: 17;
+	z-index: 18;
 	width: 44px;
 	min-height: 34px;
 	border-style: none;
@@ -277,7 +274,7 @@
 
 #u136
 {
-	z-index: 6;
+	z-index: 7;
 	border-style: none;
 	padding-bottom: 483px;
 	background: #FFFFFF url("../../images/about/2.jpg") no-repeat center center;
@@ -4789,25 +4786,3 @@ body
 {
 	clear: both;
 }
-
-
-/*
-	FILE ARCHIVED ON 03:46:41 Mar 28, 2016 AND RETRIEVED FROM THE
-	INTERNET ARCHIVE ON 22:03:56 Apr 30, 2023.
-	JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-	ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-	SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 93.19
-  exclusion.robots: 0.145
-  exclusion.robots.policy: 0.129
-  cdx.remote: 0.091
-  esindex: 0.013
-  LoadShardBlock: 51.53 (3)
-  PetaboxLoader3.datanode: 83.255 (5)
-  load_resource: 190.949 (2)
-  PetaboxLoader3.resolve: 147.424 (2)
-*/

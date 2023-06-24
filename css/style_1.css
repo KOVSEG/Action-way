@@ -8,14 +8,14 @@
   height: 100%;
   list-style: none;
   overflow: hidden;
-  *zoom: 1;
-  -webkit-backface-visibility: hidden;
-  -webkit-transform-style: preserve-3d;
+  /* *zoom: 1; */
+  /* -webkit-backface-visibility: hidden; */
+  /* -webkit-transform-style: preserve-3d; */
 }
 .slider__item {
   height: 100%;
   float: left;
-  clear: none;
+  /* clear: none; */
 }
 .slider__arrows-item {
   position: absolute;
@@ -76,23 +76,3 @@ display: block;
 margin: 0 5px;
 background: #fff;
 }
-/*
-     FILE ARCHIVED ON 07:16:43 Oct 18, 2016 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 20:20:57 Apr 30, 2023.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 133.228
-  exclusion.robots: 0.077
-  exclusion.robots.policy: 0.069
-  cdx.remote: 0.052
-  esindex: 0.009
-  LoadShardBlock: 93.836 (3)
-  PetaboxLoader3.datanode: 133.096 (5)
-  load_resource: 704.359 (2)
-  PetaboxLoader3.resolve: 643.921 (2)
-*/

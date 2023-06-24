@@ -1,11 +1,11 @@
 	/*------ Headers  ------*/
 	h1 {font: 500 90px/90px DinText; color: #e74c3c; text-transform: uppercase; margin-bottom: 15px;}
-	
+
 	/*------ Buttons  ------*/
 	.button {background: #ff0000;}
 		.button:hover {background: #da0000;}
 		.button:active {top: 1px;}
-		
+
 /**************** HEADER *****************/
 
 header {height: 865px; background: url(../images/header_bg.jpg) right 0px no-repeat; background-size: cover;}
@@ -20,19 +20,18 @@ header .wrapper h1{font-size: 60px; line-height: 70px; color: #313149;}
 	header .insurance{text-align: center; margin:20px 0 0 0;}
 	header .insurance span{font-size: 15px; color: #313149; text-transform: uppercase; display: inline-block; vertical-align: middle;color: #313149; margin-right: 20px;}
 	header .insurance img{display: inline-block; vertical-align: middle;}
-	
-	
+
+
 /**************** STATISTICS *****************/
 
-#statistics {height: 218px; background: #313149; }
+/* #statistics {height: 218px; background: #313149; }
 #statistics .wrapper {padding: 60px 200px;}
 	#statistics [class*="item"] {width: 255px; font: 48px/52px DinText; color: #e74c3c; text-align: center; text-transform: uppercase; float: left; margin: 0 35px;}
-		#statistics [class*="item"] b {display: block; font: 500 100px/60px DinText;}
-		
+		#statistics [class*="item"] b {display: block; font: 500 100px/60px DinText;} */
 
 /**************** SELECT *****************/
 
-#select {height: 794px; /* background: url(/web/20161018071738im_/http://action-way.com/themes/classic/images/index/select_bg.jpg) center center no-repeat fixed; background-size:cover; */}
+#select {height: 794px;}
 #select .wrapper {padding: 60px 0 0; width: 1200px; text-align: center;}
 	#select h2 {color: #e74c3c; margin-bottom: 0;}
 	#select [class*="item"] {display: inline-block; width: 190px;  margin: 45px 20px; font: 30px/34px DinText; color: #e74c3c; text-align: center; text-transform: uppercase; vertical-align: top;}
@@ -49,35 +48,40 @@ header .wrapper h1{font-size: 60px; line-height: 70px; color: #313149;}
 			#select .item-8 .icon {background-position: -374px -165px;}
 			#select .item-9 .icon {background-position: -561px -165px;}
 			#select .item-10 .icon {background-position: -748px -165px;}
-			
-			
+
+
 /**************** INSURANCE *****************/
 
 #insurance {height: 960px; background: url(../images/insurance_bg.jpg) center center no-repeat fixed;  background-size:cover;}
 #insurance .wrapper {padding: 30px 0 0;}
 	#insurance h2 {color: #fff;text-shadow: 1px 3px 3px rgb(23, 23, 23), 0 0 1em rgb(31, 31, 31); }
-	#insurance h3 {font-size: 32px;
-text-transform: none;
-font-family: Open Sans;}
+	#insurance h3 {
+		font-size: 32px;
+		text-transform: none;
+		font-family: 'Open Sans';
+	}
 	#insurance img {
 		margin-left: 25px;
-margin-top: 25px;
+		margin-top: 25px;
 	}
-	#insurance-bg { width: 800px;margin: 0 auto;margin-top: 40px;border-radius: 8px;
-  height: 636px; background-color: rgba(40, 39, 39, 0.46);}
-  #insurance-bg p {padding-left: 90px;
-line-height: 1.15;
-color: white;
-font-size: 23px;
-padding-right: 30px;
- text-shadow: 0.5px 0.866px 2px rgba(0, 0, 0, 0.75);
-}
+	#insurance-bg {
+		width: 800px;margin: 0 auto;margin-top: 40px;border-radius: 8px;
+  	height: 670px; background-color: rgba(40, 39, 39, 0.46);
+	}
+  #insurance-bg p {
+		padding-left: 90px;
+		line-height: 1.15;
+		color: white;
+		font-size: 23px;
+		padding-right: 30px;
+  	text-shadow: 0.5px 0.866px 2px rgba(0, 0, 0, 0.75);
+	}
 
 #insurance-bg .first-p-insurane {
 	padding-top: 40px;
 }
-	
-	
+
+
 /**************** REVIEWS *****************/
 
 #reviews {padding-bottom: 40px; background: url(../images/reviews_bg.jpg) center center no-repeat fixed; background-size:cover;}
@@ -97,39 +101,12 @@ padding-right: 30px;
 		#reviews .fslider_controls .bullet {width: 14px; height: 14px; background: #fff; border: 3px solid #fff; border-radius: 50%; font-size: 0; margin: 0 12px; position: relative; behavior:url(../PIE.php);}
 		#reviews .fslider_controls .bullet:hover {background: #aaa;}
 		#reviews .fslider_controls .bullet.active {background: #1b222c;}
-		
-		
+
+
 /**************** ABOUT *****************/
 
-#about {height: 1113px; background: url(../images/about_bg.jpg) center top no-repeat; font: 26px/35px DinText;  background-size:cover;}
+/* #about {height: 1113px; background: url(../images/about_bg.jpg) center top no-repeat; font: 26px/35px DinText;  background-size:cover;}
 #about .wrapper {padding: 70px 70px 0 0;}
 	#about .content {width: 620px; float: right;}
 		#about .content p {}
-		#about .content .author {display: block; float: right; margin: 45px 70px 0 0;}
-
-
-
-
-#advice {
-	height: 865px; 
-}
-/*
-     FILE ARCHIVED ON 07:17:38 Oct 18, 2016 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 20:20:57 Apr 30, 2023.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 61.548
-  exclusion.robots: 0.074
-  exclusion.robots.policy: 0.065
-  RedisCDXSource: 5.554
-  esindex: 0.01
-  LoadShardBlock: 38.472 (3)
-  PetaboxLoader3.datanode: 113.53 (5)
-  load_resource: 158.567 (2)
-  PetaboxLoader3.resolve: 74.429
-*/
+		#about .content .author {display: block; float: right; margin: 45px 70px 0 0;} */
