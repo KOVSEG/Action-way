@@ -80,33 +80,3 @@ header .wrapper h1{font-size: 60px; line-height: 70px; color: #313149;}
 #insurance-bg .first-p-insurane {
 	padding-top: 40px;
 }
-
-
-/**************** REVIEWS *****************/
-
-#reviews {padding-bottom: 40px; background: url(../images/reviews_bg.jpg) center center no-repeat fixed; background-size:cover;}
-#reviews .wrapper {padding: 40px 0;}
-	/*------ Slider ------*/
-	#reviews .fslider_big_wrapper {}
-		#reviews .fslider > li {width: 1110px;  font: 300 italic 22px/26px 'Open Sans'; color: #fff; text-align: center;}
-		#reviews .fslider > li .info{display: inline-block; max-width: 600px; text-align: left;overflow: hidden; margin:0 0 10px 0;}
-		#reviews .fslider > li .info .name{margin:20px 0 10px 0;}
-		#reviews .fslider > li .info .text{overflow: hidden;}
-		#reviews .fslider > li a.more, #reviews .fslider > li a.hide{text-align: right;float:right;  text-decoration: underline;}
-		#reviews .fslider > li a.more:hover, #reviews .fslider > li a.hide:hover{text-decoration: none;}
-		#reviews .fslider > li p{text-align: center; font-size: 18px;}
-			#reviews .fslider > li img {display: block; width: 125px; height: 125px; border: 5px solid #fff; border-radius: 50%; float:left; margin-right: 50px;   position: relative; behavior:url(../PIE.php);}
-	/* Bullets */
-	#reviews .fslider_controls {left: 0; right: 0; bottom: -40px; }
-		#reviews .fslider_controls .bullet {width: 14px; height: 14px; background: #fff; border: 3px solid #fff; border-radius: 50%; font-size: 0; margin: 0 12px; position: relative; behavior:url(../PIE.php);}
-		#reviews .fslider_controls .bullet:hover {background: #aaa;}
-		#reviews .fslider_controls .bullet.active {background: #1b222c;}
-
-
-/**************** ABOUT *****************/
-
-/* #about {height: 1113px; background: url(../images/about_bg.jpg) center top no-repeat; font: 26px/35px DinText;  background-size:cover;}
-#about .wrapper {padding: 70px 70px 0 0;}
-	#about .content {width: 620px; float: right;}
-		#about .content p {}
-		#about .content .author {display: block; float: right; margin: 45px 70px 0 0;} */
